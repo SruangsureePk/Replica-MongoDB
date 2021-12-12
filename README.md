@@ -1,5 +1,5 @@
 # Replica-MongoDB
- Replica MongoDB และสาธิตทดสอบ FailOver
+
 mkdir cm_replica_demo
 cd cm_replica_demo
 mkdir r1
