@@ -26,9 +26,4 @@ mongo --host cmpos/localhost:27018,localhost:27019,localhost:27020
 use courses
 db.getCollection('test').find({})
 
-#Doc
-https://docs.mongodb.com/manual/replication/
-https://studio3t.com/knowledge-base/articles/connect-to-mongodb/#connect-to-a-replica-set
-www.codemobiles.com
 
-ps -ef | grep mongod
